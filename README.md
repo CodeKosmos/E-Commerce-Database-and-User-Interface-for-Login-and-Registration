@@ -11,7 +11,7 @@ Technologies Used:
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/CodeKosmos/Login-Register.git
 
 Open the project in NetBeans:
 Open NetBeans IDE.
